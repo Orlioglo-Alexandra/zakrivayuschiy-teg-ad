@@ -218,6 +218,7 @@ dialog {
   align-self: center;
 }
 
+
 .dialog:not([open]) {
   display: none;
 }
